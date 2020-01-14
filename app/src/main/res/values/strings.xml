@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Enkripsi</string>
+    <string name="howto1">Dalam aplikasi ini pertama user harus memasukkan kunci untuk kunci acak untuk enkripsi pada TextBox masukan kunci
+\nKedua user harus memasukkan pesan yang akan dienkripsi pada TextBox masukan oesan
+\nSaat sudah diisikan, Tekan tombol ENCRYPT untuk pesan dari User dienkripsi oleh aplikasi
+\nOutput dari Enkripsi pesan User akan muncul pada TextView di bawah tombol ENCRYPT dan DECRYPT</string>
+
+
+    <string name="howto2">Tekan hasil output Enkripsi pada pesan yang sudah dienkrip oleh aplikasi untuk mengcopy hasilnya
+\nUser tempelkan hasil copyan output enkrip pada TextBox Masukan Pesan
+\nSaat sudah ditempelkan, Tekan tombol  DECRYPT untuk mengembalikan pesan User yang sudah di Enkripsi
+    </string>
+
+    <string name="howto3">User Tekan tombol SHARE pada bagian pojok kanan atas aplikasi untuk mengirim pesan yang sudah terenkripsi via SMS,Line,Whatapp dan sebagainya
+</string>
+
+    <string name="about1">Aplikasi ini dibuat untuk syarat menyelesaikan Penulisan Ilmiah
+\nDalam Aplikasi ini dibuat dengan menggunakan 2 Metode Algoritma yaitu:
+\n1. Algoritma Caesar Cipher
+\n2. Algoritma Vigenere Cipher
+\n
+\nPesan user pertama akan dienkripsi oleh Metode Caesar Cipher terlebih dahulu
+\nSetelah itu hasil dari enkripsi Caesar Cipher akan dienkrip kembali dengan Metode Vigenere Cipher
+\nJika sudah terenkrip Output akan dikirim kepada User lain via SMS,Line atau sebagainya
+    </string>
+
+    <string name="about2">Nama	: Aulia Brahmantio Diaz
+\nNPM	: 51416193
+\nKelas	: 3IA02
+\nDitujukan sebagai penyelesaian penulisan ilmiah
+    </string>
+</resources>
